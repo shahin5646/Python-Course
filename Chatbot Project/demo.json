@@ -1,0 +1,109 @@
+
+  {
+    "question": "Research and Innovation in CSE",
+    "answer": {
+      "course_code": "CSE334",
+      "course_title": "Research and Innovation in CSE",
+      "credit_hours": 1,
+      "section": "61_L",
+      "instructor": "Mr. Md. Ali Hossain",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Software Project III",
+    "answer": {
+      "course_code": "CSE316",
+      "course_title": "Software Project III",
+      "credit_hours": 1,
+      "section": "61_L",
+      "instructor": "Mr. Md Ibrahim Khan",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Introduction to Data Science",
+    "answer": {
+      "course_code": "CSE315",
+      "course_title": "Introduction to Data Science",
+      "credit_hours": 3,
+      "section": "61_L",
+      "instructor": "Mr. Narayan Ranjan Chakraborty",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Object Oriented Programming II Lab",
+    "answer": {
+      "course_code": "CSE222",
+      "course_title": "Object Oriented Programming II Lab",
+      "credit_hours": 2,
+      "section": "61_L1",
+      "instructor": "Mr. Asfaqur Rahman",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Object Oriented Programming II",
+    "answer": {
+      "course_code": "CSE221",
+      "course_title": "Object Oriented Programming II",
+      "credit_hours": 1,
+      "section": "61_L",
+      "instructor": "Mr. Asfaqur Rahman",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Digital Electronics Lab",
+    "answer": {
+      "course_code": "CSE224",
+      "course_title": "Digital Electronics Lab",
+      "credit_hours": 2,
+      "section": "61_L",
+      "instructor": "Mr. Narayan Ranjan Chakraborty",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Digital Electronics",
+    "answer": {
+      "course_code": "CSE223",
+      "course_title": "Digital Electronics",
+      "credit_hours": 1,
+      "section": "61_L",
+      "instructor": "Mr. Narayan Ranjan Chakraborty",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "Financial and Managerial Accounting",
+    "answer": {
+      "course_code": "ACT322",
+      "course_title": "Financial and Managerial Accounting",
+      "credit_hours": 2,
+      "section": "61_L",
+      "instructor": "Mr. Agnishwar Nath",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  },
+  {
+    "question": "System Analysis & Design",
+    "answer": {
+      "course_code": "CSE321",
+      "course_title": "System Analysis & Design",
+      "credit_hours": 3,
+      "section": "61_L",
+      "instructor": "Mr. Md Fourcan Karim Mazumdar",
+      "advisement": "NOT ADVISED",
+      "has_lab": "Yes"
+    }
+  }

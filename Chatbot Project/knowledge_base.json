@@ -1,0 +1,1392 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Who is the founder of DIU?",
+      "answer": "The founder of Daffodil International University is Mr. Md. Sabur Khan."
+    },
+    {
+      "question": "When was DIU established?",
+      "answer": "DIU was established in 2002."
+    },
+    {
+      "question": "Where is DIU located?",
+      "answer": "DIU is located in Dhaka, Bangladesh."
+    },
+    {
+      "question": "What faculties or departments does DIU have?",
+      "answer": "DIU has faculties including Science and Information Technology, Business and Economics, Humanities and Social Sciences, Engineering, Allied Health Sciences, Law, Pharmacy, and Media and Communication."
+    },
+    {
+      "question": "How much is the semester fee at DIU?",
+      "answer": "The semester fee at DIU varies depending on the program and the number of credit hours. For specific fee details, it is recommended to contact the university's administration or visit their official website."
+    },
+    {
+      "question": "What programs does DIU offer?",
+      "answer": "DIU offers undergraduate and postgraduate programs including BSc, BBA, BA, LLB, BPharm, MSc, MBA, MA, LLM, and more."
+    },
+    {
+      "question": "Can you provide information about the admission process at DIU?",
+      "answer": "The admission process at DIU typically involves submitting an application form, fulfilling eligibility criteria, appearing for an admission test (if required), and participating in an interview. Requirements may vary by program."
+    },
+    {
+      "question": "What facilities are available for students at DIU?",
+      "answer": "DIU provides facilities like libraries, computer labs, sports facilities, student clubs, accommodation options, dining facilities, career counseling services, and more."
+    },
+    {
+      "question": "Does DIU offer scholarships?",
+      "answer": "Yes, DIU offers scholarships to eligible students based on academic merit, financial need, or other criteria. The university may have different scholarship programs for domestic and international students."
+    },
+    {
+      "question": "How is the campus life at DIU?",
+      "answer": "The campus life at DIU is vibrant with various extracurricular activities, events, and clubs. The university promotes a supportive and inclusive environment for learning and personal growth."
+    },
+    {
+      "question": "What accreditation does DIU have?",
+      "answer": "DIU is accredited by the UGC of Bangladesh and approved by the Ministry of Education. Some programs may have specific accreditations from professional bodies."
+    },
+    {
+      "question": "Can international students apply to DIU?",
+      "answer": "Yes, international students are welcome to apply to DIU. The university offers programs and services tailored to their needs, including visa assistance, accommodation options, and cultural integration programs."
+    },
+    {
+      "question": "What research opportunities are available at DIU?",
+      "answer": "DIU encourages research and innovation among faculty and students, offering grants, facilities, and collaboration opportunities in various fields."
+    },
+    {
+      "question": "How does DIU contribute to the community?",
+      "answer": "DIU engages in community outreach programs, social initiatives, and partnerships to contribute to the welfare and development of society."
+    },
+    {
+      "question": "What are the career prospects for DIU graduates?",
+      "answer": "DIU graduates have diverse career opportunities in industries such as business, technology, healthcare, education, government, and more. The university may offer career placement services to assist graduates in finding employment."
+    },
+    {
+      "question": "When and where was Mr. Md. Sabur Khan born?",
+      "answer": "Mr. Md. Sabur Khan was born on October 23, 1959, in Dhaka, Bangladesh."
+    },
+    {
+      "question": "What is the birthdate of Mr. Md. Sabur Khan?",
+      "answer": "Mr. Md. Sabur Khan was born on October 23, 1959."
+    },
+    {
+      "question": "What is the birthplace of Mr. Md. Sabur Khan?",
+      "answer": "Mr. Md. Sabur Khan was born in Dhaka, Bangladesh."
+    },
+    {
+      "question": "Who is Mr. Md. Sabur Khan?",
+      "answer": "Mr. Md. Sabur Khan is an entrepreneur, educationist, and philanthropist known for founding Daffodil International University and his contributions to the education sector in Bangladesh."
+    },
+    {
+      "question": "What is Mr. Md. Sabur Khan's role at DIU?",
+      "answer": "Mr. Md. Sabur Khan is the founder and chairman of Daffodil International University."
+    },
+    {
+      "question": "How has Mr. Md. Sabur Khan contributed to education in Bangladesh?",
+      "answer": "Mr. Md. Sabur Khan has made significant contributions to education in Bangladesh through initiatives such as establishing Daffodil International University, promoting innovation and entrepreneurship in education, and advocating for quality higher education."
+    },
+    {
+      "question": "What awards or recognition has Mr. Md. Sabur Khan received?",
+      "answer": "Mr. Md. Sabur Khan has received numerous awards and recognition for his contributions to education and entrepreneurship, including the 'Outstanding Contribution to Education' award by the National Education Leadership Award in 2014."
+    },
+    {
+      "question": "What is Mr. Md. Sabur Khan's vision for DIU?",
+      "answer": "Mr. Md. Sabur Khan envisions DIU as a leading institution of higher learning in Bangladesh, providing quality education, fostering innovation and entrepreneurship, and contributing to national development."
+    },
+    {
+      "question": "How has DIU grown under the leadership of Mr. Md. Sabur Khan?",
+      "answer": "Under the leadership of Mr. Md. Sabur Khan, DIU has experienced significant growth in terms of infrastructure, academic programs, research initiatives, and international collaborations."
+    },
+    {
+      "question": "What is the motto of DIU?",
+      "answer": "The motto of Daffodil International University is 'Knowledge for Innovation and Change.'"
+    },
+    {
+      "question": "What is the mission of DIU?",
+      "answer": "The mission of Daffodil International University is to provide quality education, foster innovation and entrepreneurship, and contribute to national development through research, technology transfer, and community engagement."
+    },
+    {
+      "question": "What are the core values of DIU?",
+      "answer": "The core values of Daffodil International University include integrity, excellence, inclusiveness, innovation, and social responsibility."
+    },
+    {
+      "question": "How does DIU promote innovation and entrepreneurship?",
+      "answer": "DIU promotes innovation and entrepreneurship through academic programs, research initiatives, incubation centers, startup competitions, industry partnerships, and mentorship programs."
+    },
+    {
+      "question": "What is the campus size of DIU?",
+      "answer": "The campus of DIU spans over a significant area with modern facilities for students, faculty, and staff."
+    },
+    {
+      "question": "Does DIU have international collaborations?",
+      "answer": "Yes, DIU has collaborations with several international universities and institutions for academic exchange programs, research collaborations, and student mobility programs."
+    },
+    {
+      "question": "What are the research areas emphasized at DIU?",
+      "answer": "DIU focuses on research areas such as information technology, business innovation, social sciences, engineering, health sciences, and sustainable development."
+    },
+    {
+      "question": "How does DIU support student innovation?",
+      "answer": "DIU supports student innovation through innovation labs, startup incubation centers, hackathons, and mentorship programs."
+    },
+    {
+      "question": "What is the alumni network of DIU like?",
+      "answer": "The alumni network of DIU is extensive, with graduates working in various sectors globally. The university maintains connections with its alumni through networking events and online platforms."
+    },
+    {
+      "question": "Does DIU provide career counseling services?",
+      "answer": "Yes, DIU offers career counseling services to help students explore career options, develop job-search skills, and prepare for interviews."
+    },
+    {
+      "question": "What extracurricular activities are available at DIU?",
+      "answer": "DIU offers a wide range of extracurricular activities including sports, cultural events, clubs, and student organizations."
+    },
+    {
+      "question": "How does DIU contribute to sustainable development?",
+      "answer": "DIU promotes sustainability through initiatives such as green campus practices, environmental awareness campaigns, and research on sustainable technologies."
+    },
+    {
+      "question": "What is the role of DIU in community development?",
+      "answer": "DIU actively engages in community development projects such as health camps, education initiatives, and environmental conservation programs."
+    },
+    {
+      "question": "Are there opportunities for international internships at DIU?",
+      "answer": "Yes, DIU facilitates international internships for students through partnerships with organizations and companies worldwide."
+    },
+    {
+      "question": "What is the student-faculty ratio at DIU?",
+      "answer": "The student-faculty ratio at DIU is maintained at an optimal level to ensure personalized attention and quality education."
+    },
+    {
+      "question": "How does DIU ensure quality education?",
+      "answer": "DIU maintains quality education through continuous curriculum updates, faculty development programs, and internal quality assurance mechanisms."
+    },
+    {
+      "question": "Does DIU have on-campus accommodation facilities?",
+      "answer": "Yes, DIU provides on-campus accommodation facilities for students with various options such as hostels and dormitories."
+    },
+    {
+      "question": "What is the vision of DIU for the future?",
+      "answer": "DIU aims to become a global center of excellence in education, research, and innovation, contributing significantly to national and international development."
+    },
+    {
+      "question": "How does DIU promote cultural diversity?",
+      "answer": "DIU celebrates cultural diversity through events, festivals, and international student exchange programs."
+    },
+    {
+      "question": "What are the facilities available for research at DIU?",
+      "answer": "DIU provides state-of-the-art research facilities including laboratories, libraries, and access to online databases."
+    },
+    {
+      "question": "What is the process for faculty recruitment at DIU?",
+      "answer": "Faculty recruitment at DIU follows a rigorous process based on qualifications, experience, and academic achievements."
+    },
+    {
+      "question": "Does DIU offer distance learning programs?",
+      "answer": "Yes, DIU offers distance learning programs for students who cannot attend regular classes due to various reasons."
+    },
+    {
+      "question": "How does DIU support students with disabilities?",
+      "answer": "DIU has provisions for students with disabilities including ramps, elevators, and special assistance from faculty and staff."
+    },
+    {
+      "question": "What are the entrepreneurship initiatives at DIU?",
+      "answer": "DIU promotes entrepreneurship through incubation centers, startup funding, and entrepreneurship development programs."
+    },
+    {
+      "question": "How does DIU contribute to the digital economy?",
+      "answer": "DIU offers programs in digital technologies and fosters innovation in digital economy-related fields."
+    },
+    {
+      "question": "What is the role of the DIU Board of Trustees?",
+      "answer": "The DIU Board of Trustees provides strategic direction and governance oversight to ensure the university's mission and values are upheld."
+    },
+    {
+      "question": "What is the role of DIU in promoting gender equality?",
+      "answer": "DIU promotes gender equality through policies, awareness programs, and initiatives to empower women in education and leadership."
+    },
+    {
+      "question": "How does DIU foster a culture of innovation?",
+      "answer": "DIU encourages innovation through research funding, innovation competitions, and collaboration with industry partners."
+    },
+    {
+      "question": "What is the role of DIU in addressing social issues?",
+      "answer": "DIU engages in social initiatives such as community service projects, advocacy campaigns, and partnerships with NGOs."
+    },
+    {
+      "question": "What are the international rankings of DIU?",
+      "answer": "DIU has received recognition in various international rankings for its academic excellence and contributions to education."
+    },
+    {
+      "question": "How does DIU support the arts and culture?",
+      "answer": "DIU organizes cultural events, supports student-led artistic initiatives, and collaborates with cultural institutions to promote arts and culture."
+    },
+    {
+      "question": "What is the alumni association of DIU?",
+      "answer": "The DIU alumni association connects graduates with each other and the university through networking events, alumni chapters, and online platforms."
+    },
+    {
+      "question": "How does DIU contribute to national development?",
+      "answer": "DIU contributes to national development through education, research, innovation, and social initiatives that address the country's challenges and opportunities."
+    },
+    {
+      "question": "What are the admission requirements for international students at DIU?",
+      "answer": "International students applying to DIU must meet academic qualifications, language proficiency requirements, and visa regulations."
+    },
+    {
+      "question": "Does DIU offer executive education programs?",
+      "answer": "Yes, DIU offers executive education programs for professionals seeking to enhance their skills and advance their careers."
+    },
+    {
+      "question": "How does DIU ensure student safety on campus?",
+      "answer": "DIU has security measures in place including CCTV surveillance, security personnel, and emergency response systems to ensure student safety."
+    },
+    {
+      "question": "What is the campus size of DIU?",
+      "answer": "The campus of DIU spans over a significant area with modern facilities for students, faculty, and staff."
+    },
+    {
+      "question": "Does DIU have international collaborations?",
+      "answer": "Yes, DIU has collaborations with several international universities and institutions for academic exchange programs, research collaborations, and student mobility programs."
+    },
+    {
+      "question": "What are the research areas emphasized at DIU?",
+      "answer": "DIU focuses on research areas such as information technology, business innovation, social sciences, engineering, health sciences, and sustainable development."
+    },
+    {
+      "question": "How does DIU support student innovation?",
+      "answer": "DIU supports student innovation through innovation labs, startup incubation centers, hackathons, and mentorship programs."
+    },
+    {
+      "question": "What is the alumni network of DIU like?",
+      "answer": "The alumni network of DIU is extensive, with graduates working in various sectors globally. The university maintains connections with its alumni through networking events and online platforms."
+    },
+    {
+      "question": "Does DIU provide career counseling services?",
+      "answer": "Yes, DIU offers career counseling services to help students explore career options, develop job-search skills, and prepare for interviews."
+    },
+    {
+      "question": "What extracurricular activities are available at DIU?",
+      "answer": "DIU offers a wide range of extracurricular activities including sports, cultural events, clubs, and student organizations."
+    },
+    {
+      "question": "How does DIU contribute to sustainable development?",
+      "answer": "DIU promotes sustainability through initiatives such as green campus practices, environmental awareness campaigns, and research on sustainable technologies."
+    },
+    {
+      "question": "What is the role of DIU in community development?",
+      "answer": "DIU actively engages in community development projects such as health camps, education initiatives, and environmental conservation programs."
+    },
+    {
+      "question": "Are there opportunities for international internships at DIU?",
+      "answer": "Yes, DIU facilitates international internships for students through partnerships with organizations and companies worldwide."
+    },
+    {
+      "question": "What is the student-faculty ratio at DIU?",
+      "answer": "The student-faculty ratio at DIU is maintained at an optimal level to ensure personalized attention and quality education."
+    },
+    {
+      "question": "How does DIU ensure quality education?",
+      "answer": "DIU maintains quality education through continuous curriculum updates, faculty development programs, and internal quality assurance mechanisms."
+    },
+    {
+      "question": "Does DIU have on-campus accommodation facilities?",
+      "answer": "Yes, DIU provides on-campus accommodation facilities for students with various options such as hostels and dormitories."
+    },
+    {
+      "question": "What is the vision of DIU for the future?",
+      "answer": "DIU aims to become a global center of excellence in education, research, and innovation, contributing significantly to national and international development."
+    },
+    {
+      "question": "How does DIU promote cultural diversity?",
+      "answer": "DIU celebrates cultural diversity through events, festivals, and international student exchange programs."
+    },
+    {
+      "question": "What are the facilities available for research at DIU?",
+      "answer": "DIU provides state-of-the-art research facilities including laboratories, libraries, and access to online databases."
+    },
+    {
+      "question": "What is the process for faculty recruitment at DIU?",
+      "answer": "Faculty recruitment at DIU follows a rigorous process based on qualifications, experience, and academic achievements."
+    },
+    {
+      "question": "Does DIU offer distance learning programs?",
+      "answer": "Yes, DIU offers distance learning programs for students who cannot attend regular classes due to various reasons."
+    },
+    {
+      "question": "How does DIU support students with disabilities?",
+      "answer": "DIU has provisions for students with disabilities including ramps, elevators, and special assistance from faculty and staff."
+    },
+    {
+      "question": "What are the entrepreneurship initiatives at DIU?",
+      "answer": "DIU promotes entrepreneurship through incubation centers, startup funding, and entrepreneurship development programs."
+    },
+    {
+      "question": "How does DIU contribute to the digital economy?",
+      "answer": "DIU offers programs in digital technologies and fosters innovation in digital economy-related fields."
+    },
+    {
+      "question": "What is the role of the DIU Board of Trustees?",
+      "answer": "The DIU Board of Trustees provides strategic direction and governance oversight to ensure the university's mission and values are upheld."
+    },
+    {
+      "question": "What is the role of DIU in promoting gender equality?",
+      "answer": "DIU promotes gender equality through policies, awareness programs, and initiatives to empower women in education and leadership."
+    },
+    {
+      "question": "How does DIU foster a culture of innovation?",
+      "answer": "DIU encourages innovation through research funding, innovation competitions, and collaboration with industry partners."
+    },
+    {
+      "question": "What is the role of DIU in addressing social issues?",
+      "answer": "DIU engages in social initiatives such as community service projects, advocacy campaigns, and partnerships with NGOs."
+    },
+    {
+      "question": "What are the international rankings of DIU?",
+      "answer": "DIU has received recognition in various international rankings for its academic excellence and contributions to education."
+    },
+    {
+      "question": "How does DIU support the arts and culture?",
+      "answer": "DIU organizes cultural events, supports student-led artistic initiatives, and collaborates with cultural institutions to promote arts and culture."
+    },
+    {
+      "question": "What is the alumni association of DIU?",
+      "answer": "The DIU alumni association connects graduates with each other and the university through networking events, alumni chapters, and online platforms."
+    },
+    {
+      "question": "How does DIU contribute to national development?",
+      "answer": "DIU contributes to national development through education, research, innovation, and social initiatives that address the country's challenges and opportunities."
+    },
+    {
+      "question": "What are the admission requirements for international students at DIU?",
+      "answer": "International students applying to DIU must meet academic qualifications, language proficiency requirements, and visa regulations."
+    },
+    {
+      "question": "Does DIU offer executive education programs?",
+      "answer": "Yes, DIU offers executive education programs for professionals seeking to enhance their skills and advance their careers."
+    },
+    {
+      "question": "How does DIU ensure student safety on campus?",
+      "answer": "DIU has security measures in place including CCTV surveillance, security personnel, and emergency response systems to ensure student safety."
+    },
+    {
+      "question": "What are the international partnerships of DIU?",
+      "answer": "DIU has partnerships with universities, research institutions, and organizations worldwide for academic collaboration, student exchange."
+    },
+    {
+      "question": "What is the vision of DIU?",
+      "answer": "The vision of Daffodil International University is to be a center of excellence in education, research, and innovation, contributing significantly to societal development."
+    },
+    {
+      "question": "How does DIU ensure quality education?",
+      "answer": "DIU ensures quality education through rigorous curriculum development, faculty training, continuous assessment, accreditation processes, and adherence to national and international standards."
+    },
+    {
+      "question": "What is the role of technology in education at DIU?",
+      "answer": "DIU integrates technology into education through e-learning platforms, digital libraries, online resources, and interactive teaching methods to enhance the learning experience and prepare students for the digital age."
+    },
+    {
+      "question": "Does DIU have international partnerships?",
+      "answer": "Yes, DIU has collaborations with universities, research institutions, and industry partners worldwide, facilitating student exchange programs, joint research projects, and global exposure opportunities."
+    },
+    {
+      "question": "What steps does DIU take to support student success?",
+      "answer": "DIU provides academic advising, tutoring services, career development programs, counseling services, and student support networks to ensure the holistic development and success of its students."
+    },
+    {
+      "question": "How does DIU contribute to sustainable development?",
+      "answer": "DIU promotes sustainable practices through environmental conservation initiatives, energy-efficient infrastructure, waste management programs, and educational campaigns to raise awareness about sustainability issues."
+    },
+    {
+      "question": "What is the student-to-faculty ratio at DIU?",
+      "answer": "The student-to-faculty ratio at DIU varies by department and program but generally strives to maintain a ratio conducive to personalized learning and interaction between students and faculty."
+    },
+    {
+      "question": "Are there opportunities for student leadership at DIU?",
+      "answer": "Yes, DIU encourages student leadership through student government, clubs, societies, and participation in decision-making processes at various levels of the university."
+    },
+    {
+      "question": "How does DIU foster diversity and inclusivity?",
+      "answer": "DIU promotes diversity and inclusivity through multicultural programs, international student support services, gender equality initiatives, and policies that create an inclusive campus environment for all."
+    },
+    {
+      "question": "Does DIU have on-campus housing?",
+      "answer": "Yes, DIU offers on-campus housing facilities for students, providing accommodation options that cater to different preferences and budgets."
+    },
+    {
+      "question": "What are the opportunities for extracurricular activities at DIU?",
+      "answer": "DIU offers a wide range of extracurricular activities including sports, cultural events, community service projects, leadership development programs, and student clubs covering diverse interests and hobbies."
+    },
+    {
+      "question": "What support does DIU provide for students with disabilities?",
+      "answer": "DIU offers support services for students with disabilities, including accessible facilities, assistive technologies, accommodation arrangements, and specialized academic support to ensure equal opportunities for all students."
+    },
+    {
+      "question": "How does DIU engage with alumni?",
+      "answer": "DIU maintains strong connections with its alumni through alumni associations, networking events, mentorship programs, and opportunities for continued learning and involvement in university activities."
+    },
+    {
+      "question": "What health and wellness services are available at DIU?",
+      "answer": "DIU provides health and wellness services including medical clinics, counseling centers, fitness facilities, mental health support, and wellness programs to promote the overall well-being of students and staff."
+    },
+    {
+      "question": "How does DIU promote cultural awareness and exchange?",
+      "answer": "DIU organizes cultural events, international festivals, language exchange programs, and study abroad opportunities to foster cross-cultural understanding, appreciation, and collaboration among its diverse student body."
+    },
+    {
+      "question": "What measures does DIU take to ensure campus safety and security?",
+      "answer": "DIU implements security measures such as surveillance systems, security personnel, emergency response protocols, and safety awareness campaigns to create a secure environment for students, faculty, and staff."
+    },
+    {
+      "question": "Does DIU offer online or distance learning programs?",
+      "answer": "Yes, DIU offers online and distance learning programs, providing flexible study options for students who prefer remote or part-time learning."
+    },
+    {
+      "question": "How does DIU engage with the local community?",
+      "answer": "DIU collaborates with local communities through outreach programs, social initiatives, volunteering opportunities, and partnerships with community organizations to address societal needs and contribute to community development."
+    },
+    {
+      "question": "What is the role of ethics and values in education at DIU?",
+      "answer": "DIU emphasizes the importance of ethics, integrity, and values-based education, integrating ethical principles into the curriculum, research activities, and campus culture to cultivate responsible and ethical leaders."
+    },
+    {
+      "question": "What resources does DIU provide for career planning and development?",
+      "answer": "DIU offers career counseling, job placement services, internship opportunities, networking events, resume workshops, and skill development programs to help students explore career options and transition successfully into the workforce."
+    },
+    {
+      "question": "How does DIU leverage technology for teaching and learning?",
+      "answer": "DIU utilizes technology-enhanced teaching methods, digital learning platforms, virtual labs, multimedia resources, and online assessments to create engaging and interactive learning experiences for students."
+    },
+    {
+      "question": "What are the options for continuing education at DIU?",
+      "answer": "DIU provides continuing education programs, professional development courses, certificate programs, and lifelong learning opportunities for individuals seeking to enhance their skills or pursue further education."
+    },
+    {
+      "question": "What steps does DIU take to ensure academic integrity?",
+      "answer": "DIU upholds academic integrity through policies, procedures, and educational programs that promote honesty, fairness, and ethical conduct in academic activities such as exams, assignments, and research."
+    },
+    {
+      "question": "What is the role of innovation hubs or incubators at DIU?",
+      "answer": "DIU's innovation hubs or incubators provide resources, mentorship, funding, and networking opportunities to support student and faculty startups, entrepreneurship initiatives, and innovative projects."
+    },
+    {
+      "question": "How does DIU support faculty development and research?",
+      "answer": "DIU invests in faculty development programs, research grants, conference attendance, collaboration opportunities, and research infrastructure to support faculty members in their teaching, research, and professional growth."
+    },
+    {
+      "question": "Does DIU have any notable alumni?",
+      "answer": "Yes, DIU has produced many notable alumni who have excelled in various fields including business, academia, government, arts, and technology, making significant contributions to society and the economy."
+    },
+    {
+      "question": "Where is the Daffodil International University permanent campus located?",
+      "answer": "The permanent campus of Daffodil International University is located in Ashulia, Savar, Dhaka, Bangladesh."
+    },
+    {
+      "question": "Does Daffodil International University /DIU offer hall facilities?",
+      "answer": "Yes, Daffodil International University provides hall facilities for students. For the most up-to-date information on availability and options, please visit their website or contact their student affairs office."
+    },
+    {
+      "question": "How do I get to Daffodil International University?",
+      "answer": "The best way to get directions depends on your starting point. Daffodil International University's website likely has a dedicated section on transportation and directions. You might also consider public transportation options or inquire if DIU offers a shuttle service."
+    },
+    {
+      "question": "how do i get diu",
+      "answer": "who is the founder of Daffodil Internatinal University?"
+    },
+    {
+      "question": "Assalamualikum",
+      "answer": "Walaikum Assalam,How can I assist you?"
+    },
+    {
+      "question": "who created you?",
+      "answer": "Hi there!  I'm glad you asked. My creators are Shahin, Onik, Fuad, and Priyo. They're all students currently pursuing graduation at Daffodil International University. Together, they developed this chatbot to assist you with any questions or queries you may have. Feel free to ask away! "
+    },
+    {
+      "question": "creator of this chatbot",
+      "answer": "Hi there!  I'm glad you asked. My creators are Shahin, Onik, Fuad, and Priyo. They're all students currently pursuing graduation at Daffodil International University. Together, they developed this chatbot to assist you with any questions or queries you may have. Feel free to ask away! "
+    },
+    {
+      "question": "Hi there!  I'm glad you asked. My creators are Shahin, Onik, Fuad, and Priyo. They're all students currently pursuing graduation at Daffodil International University. Together, they developed this chatbot to assist you with any questions or queries you may have. Feel free to ask away! ",
+      "answer": "creator of you"
+    },
+    {
+      "question": "who is fuad",
+      "answer": "He is a cool buddy with dark chocholaty skin"
+    },
+    {
+      "question": "Who is Onik",
+      "answer": "He is one of the creator of me"
+    },
+    {
+      "question": "Who is Shahin",
+      "answer": "He is the leader of the group while creating me.Shahin is indeed studying Computer Science and Engineering (CSE) at Daffodil International University (DIU). It's a challenging but exciting field, and Shahin is dedicated to learning and growing in this area. "
+    },
+    {
+      "question": "Can you provide the information about my Python course teacher?",
+      "answer": "Sure! Your Python course teacher's name is Md. Asfaqur Rahman. He holds the designation of Lecturer and his office is located at Room-807, KT, DIU. You can contact him at 01950896177 or via email at asfaqurrahman.cse@diu.edu.bd."
+    },
+    {
+      "question": "python course teacher",
+      "answer": "Your Python course teacher's name is Md. Asfaqur Rahman. He holds the designation of Lecturer and his office is located at Room-807, KT, DIU. You can contact him at 01950896177 or via email at asfaqurrahman.cse@diu.edu.bd."
+    },
+    {
+      "question": "Md. Asfaqur Rahman",
+      "answer": "Object Oriented Programming II  in section 61_L is taught by Md. Asfaqur Rahman."
+    },
+    {
+      "question": "who is md. ashfaqur",
+      "answer": "Object Oriented Programming II  in section 61_L is taught by Md. Asfaqur Rahman."
+    },
+    {
+      "question": "Do you Know ashfaqur Sir",
+      "answer": "Object Oriented Programming II  in section 61_L is taught by Md. Asfaqur Rahman."
+    },
+    {
+      "question": "do you know daffodil",
+      "answer": " Daffodil International University (DIU) is a renowned private university located in  Ashulia, Dhaka, Bangladesh."
+    },
+    {
+      "question": "alumni in DIU",
+      "answer": "Daffodil Provides great facilities for alunies"
+    },
+    {
+      "question": "who is faruk",
+      "answer": "Sir er Somporke kisu bolar nai,kobi ekhane nirob"
+    },
+    {
+      "question": "tell me about Shibly",
+      "answer": "He is one of my best friend and a very bad boy"
+    },
+    {
+      "question": "tell me about Rafi",
+      "answer": "He is one of my best friend and a very intellectual guy.Nijer vabnay dube thakte pochondo kore"
+    },
+    {
+      "question": "rafi",
+      "answer": "skip "
+    },
+    {
+      "question": "213-15-4331",
+      "answer": {
+        "name": "Asif Ahmed",
+        "email": "ahmed15-4331@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4633",
+      "answer": {
+        "name": "Md. Tanmir Khan",
+        "email": "khan15-4633@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4638",
+      "answer": {
+        "name": "MD. SOHEL RANA",
+        "email": "rana15-4638@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4668",
+      "answer": {
+        "name": "Mohammad Abdulla",
+        "email": "mohammad15-4668@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4669",
+      "answer": {
+        "name": "SHAKIB UDDIN SHOVO",
+        "email": "uddin15-4669@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4790",
+      "answer": {
+        "name": "Md. Jahidul Islam Mozumdar",
+        "email": "mozumdar15-4790@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4829",
+      "answer": {
+        "name": "MD. SHAHARIAR ALOM",
+        "email": "shahariar15-4829@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4853",
+      "answer": {
+        "name": "Mst. Shaida Sunjid Chaity",
+        "email": "shaidasunjid15-4853@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4968",
+      "answer": {
+        "name": "Shuaibur Rahman Tanvir",
+        "email": "tanvir15-4968@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-4997",
+      "answer": {
+        "name": "SURAIEYA ISLAM",
+        "email": "islam15-4997@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5031",
+      "answer": {
+        "name": "SHAHARIAR KAMRUL JIM",
+        "email": "jim15-5031@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5134",
+      "answer": {
+        "name": "Avijeet Roy Sajeeb",
+        "email": "sajeeb15-5134@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5196",
+      "answer": {
+        "name": "ABDULAH -AL- NOMAN",
+        "email": "noman15-5196@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5208",
+      "answer": {
+        "name": "MD. SHAHARIAR HOSEN SHOIKOT",
+        "email": "shoikot15-5208@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5252",
+      "answer": {
+        "name": "Md. Fazie Rabby",
+        "email": "rabby15-5252@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5301",
+      "answer": {
+        "name": "ISHTIAK AHMED",
+        "email": "ahmed15-5301@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5325",
+      "answer": {
+        "name": "M. IMTIAZ KARIM",
+        "email": "karim15-5325@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5347",
+      "answer": {
+        "name": "MD. MAHMUDUR RAHMAN",
+        "email": "rahman15-5347@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5350",
+      "answer": {
+        "name": "NABIL AHMAD RIFAT",
+        "email": "rifat15-5350@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5365",
+      "answer": {
+        "name": "MOSAMMAT SUMIARA BINTE RAFIQ",
+        "email": "rafiq15-5365@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5384",
+      "answer": {
+        "name": "Atikul Islam Onik",
+        "email": "onik15-5384@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5415",
+      "answer": {
+        "name": "KH. FAIAZ HASAN",
+        "email": "hasan15-5415@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5497",
+      "answer": {
+        "name": "MD. KAMAL PERVEZ TUHIN",
+        "email": "tuhin15-5497@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5501",
+      "answer": {
+        "name": "ANTAR GOPE",
+        "email": "gope15-5501@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5599",
+      "answer": {
+        "name": "A. S. M Eftiar Nasim",
+        "email": "nasim15-5599@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5645",
+      "answer": {
+        "name": "FUAD HASAN",
+        "email": "hasan15-5645@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5646",
+      "answer": {
+        "name": "MD. SHAHIN MIAH",
+        "email": "miah15-5646@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5671",
+      "answer": {
+        "name": "MST. HAPPY AKTHER",
+        "email": "akther15-5671@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5744",
+      "answer": {
+        "name": "JANNATUN NESA",
+        "email": "nesa15-5744@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5747",
+      "answer": {
+        "name": "MD. YEASIN DEWAN SHAWON",
+        "email": "shawon15-5747@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5823",
+      "answer": {
+        "name": "Tasnim Jarin Labonno",
+        "email": "labonno15-5823@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5870",
+      "answer": {
+        "name": "MD. SALMAN ISLAM",
+        "email": "islam15-5870@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5872",
+      "answer": {
+        "name": "A. K. M Mahamudul Hasan",
+        "email": "hasan15-5872@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5873",
+      "answer": {
+        "name": "S. M. SHAKIBUR HASNAT",
+        "email": "hasnat15-5873@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5874",
+      "answer": {
+        "name": "MD. OMAR FARUK",
+        "email": "faruk15-5874@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5877",
+      "answer": {
+        "name": "J.M. TOFAIL HOSSAIN",
+        "email": "hossain15-5877@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5879",
+      "answer": {
+        "name": "CHRABON DEY SARKER",
+        "email": "sarker15-5879@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5881",
+      "answer": {
+        "name": "Mst Ridita Ashraf",
+        "email": "ashraf15-5881@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5931",
+      "answer": {
+        "name": "SURIT SHARMIN",
+        "email": "sharmin15-5931@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5948",
+      "answer": {
+        "name": "Jhion Adbar Opi",
+        "email": "opi15-5948@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5962",
+      "answer": {
+        "name": "TAHSINUR RAHMAN TANJIM",
+        "email": "tanjim15-5962@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5963",
+      "answer": {
+        "name": "Billal Hossain",
+        "email": "hossain15-5963@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-5965",
+      "answer": {
+        "name": "FARJANA AKTER TONNY",
+        "email": "tonny15-5965@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-6030",
+      "answer": {
+        "name": "MINHAZUR RAHMAN SHUVO",
+        "email": "shuvo15-6030@diu.edu.bd"
+      }
+    },
+    {
+      "question": "221-15-6048",
+      "answer": {
+        "name": "Alif Kabir Prince",
+        "email": "prince15-6048@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Asif Ahmed",
+      "answer": {
+        "student_id": "213-15-4331",
+        "email": "ahmed15-4331@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Md. Tanmir Khan",
+      "answer": {
+        "student_id": "221-15-4633",
+        "email": "khan15-4633@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. SOHEL RANA",
+      "answer": {
+        "student_id": "221-15-4638",
+        "email": "rana15-4638@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Mohammad Abdulla",
+      "answer": {
+        "student_id": "221-15-4668",
+        "email": "mohammad15-4668@diu.edu.bd"
+      }
+    },
+    {
+      "question": "SHAKIB UDDIN SHOVO",
+      "answer": {
+        "student_id": "221-15-4669",
+        "email": "uddin15-4669@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Md. Jahidul Islam Mozumdar",
+      "answer": {
+        "student_id": "221-15-4790",
+        "email": "mozumdar15-4790@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. SHAHARIAR ALOM",
+      "answer": {
+        "student_id": "221-15-4829",
+        "email": "shahariar15-4829@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Mst. Shaida Sunjid Chaity",
+      "answer": {
+        "student_id": "221-15-4853",
+        "email": "shaidasunjid15-4853@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Shuaibur Rahman Tanvir",
+      "answer": {
+        "student_id": "221-15-4968",
+        "email": "tanvir15-4968@diu.edu.bd"
+      }
+    },
+    {
+      "question": "SURAIEYA ISLAM",
+      "answer": {
+        "student_id": "221-15-4997",
+        "email": "islam15-4997@diu.edu.bd"
+      }
+    },
+    {
+      "question": "SHAHARIAR KAMRUL JIM",
+      "answer": {
+        "student_id": "221-15-5031",
+        "email": "jim15-5031@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Avijeet Roy Sajeeb",
+      "answer": {
+        "student_id": "221-15-5134",
+        "email": "sajeeb15-5134@diu.edu.bd"
+      }
+    },
+    {
+      "question": "ABDULAH -AL- NOMAN",
+      "answer": {
+        "student_id": "221-15-5196",
+        "email": "noman15-5196@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. SHAHARIAR HOSEN SHOIKOT",
+      "answer": {
+        "student_id": "221-15-5208",
+        "email": "shoikot15-5208@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Md. Fazie Rabby",
+      "answer": {
+        "student_id": "221-15-5252",
+        "email": "rabby15-5252@diu.edu.bd"
+      }
+    },
+    {
+      "question": "ISHTIAK AHMED",
+      "answer": {
+        "student_id": "221-15-5301",
+        "email": "ahmed15-5301@diu.edu.bd"
+      }
+    },
+    {
+      "question": "M. IMTIAZ KARIM",
+      "answer": {
+        "student_id": "221-15-5325",
+        "email": "karim15-5325@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. MAHMUDUR RAHMAN",
+      "answer": {
+        "student_id": "221-15-5347",
+        "email": "rahman15-5347@diu.edu.bd"
+      }
+    },
+    {
+      "question": "NABIL AHMAD RIFAT",
+      "answer": {
+        "student_id": "221-15-5350",
+        "email": "rifat15-5350@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MOSAMMAT SUMIARA BINTE RAFIQ",
+      "answer": {
+        "student_id": "221-15-5365",
+        "email": "rafiq15-5365@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Atikul Islam Onik",
+      "answer": {
+        "student_id": "221-15-5384",
+        "email": "onik15-5384@diu.edu.bd"
+      }
+    },
+    {
+      "question": "KH. FAIAZ HASAN",
+      "answer": {
+        "student_id": "221-15-5415",
+        "email": "hasan15-5415@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. KAMAL PERVEZ TUHIN",
+      "answer": {
+        "student_id": "221-15-5497",
+        "email": "tuhin15-5497@diu.edu.bd"
+      }
+    },
+    {
+      "question": "ANTAR GOPE",
+      "answer": {
+        "student_id": "221-15-5501",
+        "email": "gope15-5501@diu.edu.bd"
+      }
+    },
+    {
+      "question": "A. S. M Eftiar Nasim",
+      "answer": {
+        "student_id": "221-15-5599",
+        "email": "nasim15-5599@diu.edu.bd"
+      }
+    },
+    {
+      "question": "FUAD HASAN",
+      "answer": {
+        "student_id": "221-15-5645",
+        "email": "hasan15-5645@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. SHAHIN MIAH",
+      "answer": {
+        "student_id": "221-15-5646",
+        "email": "miah15-5646@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MST. HAPPY AKTHER",
+      "answer": {
+        "student_id": "221-15-5671",
+        "email": "akther15-5671@diu.edu.bd"
+      }
+    },
+    {
+      "question": "JANNATUN NESA",
+      "answer": {
+        "student_id": "221-15-5744",
+        "email": "nesa15-5744@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. YEASIN DEWAN SHAWON",
+      "answer": {
+        "student_id": "221-15-5747",
+        "email": "shawon15-5747@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Tasnim Jarin Labonno",
+      "answer": {
+        "student_id": "221-15-5823",
+        "email": "labonno15-5823@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. SALMAN ISLAM",
+      "answer": {
+        "student_id": "221-15-5870",
+        "email": "islam15-5870@diu.edu.bd"
+      }
+    },
+    {
+      "question": "A. K. M Mahamudul Hasan",
+      "answer": {
+        "student_id": "221-15-5872",
+        "email": "hasan15-5872@diu.edu.bd"
+      }
+    },
+    {
+      "question": "S. M. SHAKIBUR HASNAT",
+      "answer": {
+        "student_id": "221-15-5873",
+        "email": "hasnat15-5873@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MD. OMAR FARUK",
+      "answer": {
+        "student_id": "221-15-5874",
+        "email": "faruk15-5874@diu.edu.bd"
+      }
+    },
+    {
+      "question": "J.M. TOFAIL HOSSAIN",
+      "answer": {
+        "student_id": "221-15-5877",
+        "email": "hossain15-5877@diu.edu.bd"
+      }
+    },
+    {
+      "question": "CHRABON DEY SARKER",
+      "answer": {
+        "student_id": "221-15-5879",
+        "email": "sarker15-5879@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Mst Ridita Ashraf",
+      "answer": {
+        "student_id": "221-15-5881",
+        "email": "ashraf15-5881@diu.edu.bd"
+      }
+    },
+    {
+      "question": "SURIT SHARMIN",
+      "answer": {
+        "student_id": "221-15-5931",
+        "email": "sharmin15-5931@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Jhion Adbar Opi",
+      "answer": {
+        "student_id": "221-15-5948",
+        "email": "opi15-5948@diu.edu.bd"
+      }
+    },
+    {
+      "question": "TAHSINUR RAHMAN TANJIM",
+      "answer": {
+        "student_id": "221-15-5962",
+        "email": "tanjim15-5962@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Billal Hossain",
+      "answer": {
+        "student_id": "221-15-5963",
+        "email": "hossain15-5963@diu.edu.bd"
+      }
+    },
+    {
+      "question": "FARJANA AKTER TONNY",
+      "answer": {
+        "student_id": "221-15-5965",
+        "email": "tonny15-5965@diu.edu.bd"
+      }
+    },
+    {
+      "question": "MINHAZUR RAHMAN SHUVO",
+      "answer": {
+        "student_id": "221-15-6030",
+        "email": "shuvo15-6030@diu.edu.bd"
+      }
+    },
+    {
+      "question": "Alif Kabir Prince",
+      "answer": {
+        "student_id": "221-15-6048",
+        "email": "prince15-6048@diu.edu.bd"
+      }
+    },
+    {
+      "question": "student id of Shahin",
+      "answer": "221-15-5646"
+    },
+    {
+      "question": "Research and Innovation in CSE",
+      "answer": {
+        "course_code": "CSE334",
+        "course_title": "Research and Innovation in CSE",
+        "credit_hours": 1,
+        "section": "61_L",
+        "instructor": "Mr. Md. Ali Hossain",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Software Project III",
+      "answer": {
+        "course_code": "CSE316",
+        "course_title": "Software Project III",
+        "credit_hours": 1,
+        "section": "61_L",
+        "instructor": "Mr. Md Ibrahim Khan",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Introduction to Data Science",
+      "answer": {
+        "course_code": "CSE315",
+        "course_title": "Introduction to Data Science",
+        "credit_hours": 3,
+        "section": "61_L",
+        "instructor": "Mr. Narayan Ranjan Chakraborty",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Object Oriented Programming II Lab",
+      "answer": {
+        "course_code": "CSE222",
+        "course_title": "Object Oriented Programming II Lab",
+        "credit_hours": 2,
+        "section": "61_L1",
+        "instructor": "Mr. Asfaqur Rahman",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Object Oriented Programming II",
+      "answer": {
+        "course_code": "CSE221",
+        "course_title": "Object Oriented Programming II",
+        "credit_hours": 1,
+        "section": "61_L",
+        "instructor": "Mr. Asfaqur Rahman",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Digital Electronics Lab",
+      "answer": {
+        "course_code": "CSE224",
+        "course_title": "Digital Electronics Lab",
+        "credit_hours": 2,
+        "section": "61_L",
+        "instructor": "Mr. Narayan Ranjan Chakraborty",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Digital Electronics",
+      "answer": {
+        "course_code": "CSE223",
+        "course_title": "Digital Electronics",
+        "credit_hours": 1,
+        "section": "61_L",
+        "instructor": "Mr. Narayan Ranjan Chakraborty",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "Financial and Managerial Accounting",
+      "answer": {
+        "course_code": "ACT322",
+        "course_title": "Financial and Managerial Accounting",
+        "credit_hours": 2,
+        "section": "61_L",
+        "instructor": "Mr. Agnishwar Nath",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "System Analysis & Design",
+      "answer": {
+        "course_code": "CSE321",
+        "course_title": "System Analysis & Design",
+        "credit_hours": 3,
+        "section": "61_L",
+        "instructor": "Mr. Md Fourcan Karim Mazumdar",
+        "advisement": "NOT ADVISED",
+        "has_lab": "Yes"
+      }
+    },
+    {
+      "question": "prime minister of Bangladesh",
+      "answer": "Sheikh Hasina"
+    },
+    {
+      "question": "Father of sheikh hasina",
+      "answer": "Sheikh Mujib"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I am Mr.Robot created by Shahin,Onik,Fuad & Priyo.Thanks for asking!!!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello,How can I assist you?"
+    },
+    {
+      "question": "When BAngladesh became independent?",
+      "answer": "1971"
+    },
+    {
+      "question": "can you define class in python?",
+      "answer": "A Versatile and Beginner-Friendly Programming Language"
+    },
+    {
+      "question": "define python",
+      "answer": "A Versatile and Beginner-Friendly Programming Language"
+    },
+    {
+      "question": "where did Shahin Born?",
+      "answer": "Shahin Born in Habiganj,Sylhet"
+    },
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+    {
+      "question": "does diu have transeport system",
+      "answer": "yes.It does"
+    },
+    {
+      "question": "palindrome python script",
+      "answer": {
+        "code": "def is_palindrome(s):\n    \"\"\"\n    Function to check if a string is a palindrome or not.\n    \n    Args:\n    s (str): The string to check.\n    \n    Returns:\n    bool: True if the string is a palindrome, False otherwise.\n    \"\"\"\n    # Convert the string to lowercase and remove non-alphanumeric characters\n    s = ''.join(char.lower() for char in s if char.isalnum())\n    \n    # Check if the string is equal to its reverse\n    return s == s[::-1]\n\n# Example usage:\nif __name__ == \"__main__\":\n    string_to_check = input(\"Enter a string: \")\n    if is_palindrome(string_to_check):\n        print(\"The string is a palindrome.\")\n    else:\n        print(\"The string is not a palindrome.\")"
+      }
+    },
+    {
+      "question": "5+5",
+      "answer": "10"
+    },
+    {
+      "question": "Do you know about husnat",
+      "answer": "Husnat is a good boy & little bit noughty"
+    },
+    {
+      "question": "Hi MediBot, I\u2019ve been diagnosed with hypertension. Can you help me understand the medications I might need to take?",
+      "answer": "Hello! Yes, I can help with that. Hypertension, or high blood pressure, often requires medication to manage. Common types of medications include ACE inhibitors, beta blockers, diuretics, and calcium channel blockers. Have you been prescribed any specific medication by your doctor?"
+    },
+    {
+      "question": " Yes, I\u2019ve been prescribed Lisinopril. What does it do?",
+      "answer": "Lisinopril is an ACE inhibitor. It helps relax blood vessels, which lowers blood pressure and improves blood flow. This can help reduce the risk of heart attacks, strokes, and kidney problems. Do you know the dosage and frequency you need to take it?"
+    },
+    {
+      "question": " I\u2019m supposed to take 10 mg once daily.",
+      "answer": "That's a common dosage. It's important to take it at the same time each day, with or without food. Have you experienced any side effects or have any concerns about taking this medication?"
+    },
+    {
+      "question": " I sometimes feel a bit dizzy after taking it. Is that normal?",
+      "answer": "Dizziness can be a common side effect, especially when starting the medication or increasing the dose. It\u2019s usually due to the drop in blood pressure. Make sure to get up slowly from sitting or lying down to reduce the risk of dizziness. If the dizziness persists or is severe, you should contact your doctor. Are you experiencing any other side effects?"
+    },
+    {
+      "question": "No, just the dizziness. Thanks for the advice!",
+      "answer": "You\u2019re welcome! Remember to follow up with your doctor regularly to monitor your blood pressure and adjust your treatment if necessary. If you have any more questions, feel free to ask. Stay healthy!"
+    },
+    {
+      "question": " Thanks, MediBot!",
+      "answer": " Anytime! Take care!"
+    }
+  ]
+}
